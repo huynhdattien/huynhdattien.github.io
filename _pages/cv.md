@@ -18,13 +18,13 @@ Education
 
 Work experience
 ======
-* 2018 - present: Instructor
+* 2018 - present: Instructor - Graduate Assistant
   * University of Nevada Reno
   * Duties included: Teaching undergraduate and graduate courses
 
 * 2017 - 2018: Energy Conservation Research Intern
   * Living Cully, Portland, Oregon
- # * Duties included: Merging pull requests
+  * Duties included: Merging pull requests
 
 * 2016: Research Assistant Intern
   * Northwest Power and Conservation Council, Portland, Oregon
@@ -60,6 +60,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Honors and Awards
+======
+  * 2020 - UNR Department of Economics Best Second Year Paper
+  * 2017 - PSU Institute for Sustainable Solutions Fellowship
+  * From 2014 to 2017: International Student Leadership
+  * From 2012 - 2015: International Student Achievement Scholarship
+  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2014 - 2017: International Student Mentor Program
+* 2014 - 2015: Treasurer, Vietnamese Student Association
