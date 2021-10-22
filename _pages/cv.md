@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, University of Nevada Reno, 2022 (expected)
+* Graduate Certificate in Energy Policy and Management, Portland State University, 2017
+* M.S. in Economics, Portland State University, 2017
+* B.S. in Chemistry and Economics, Portland State University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - present: Instructor
+  * University of Nevada Reno
+  * Duties included: Teaching undergraduate and graduate courses
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2018: Energy Conservation Research Intern
+  * Living Cully, Portland, Oregon
+ # * Duties included: Merging pull requests
+
+* 2016: Research Assistant Intern
+  * Northwest Power and Conservation Council, Portland, Oregon
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Programming & Software
+  * STATA
+  * \LaTeX
+  * Tableau
+  * Python
   * Sub-skill 2.3
-* Skill 3
+* Languages
+  * English (Fluent)
+  * Vietnamese (Native)
 
 Publications
 ======
