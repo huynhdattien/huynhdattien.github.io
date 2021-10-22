@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Dat Huynh. I am a Ph.D candidate in Economics at the University of Nevada Reno.
+I am a Ph.D candidate (4th year) in Economics at the University of Nevada Reno, interested in Development, Macro-economics, and public policy. 
 
 I'm working on making this website up and running properly.
 
