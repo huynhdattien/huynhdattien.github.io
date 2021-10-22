@@ -8,8 +8,8 @@ venue: 'Journal 1'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/pad.1893'
 citation: 'Huynh, D., Tosun, M.S. and Yilmaz, S. (2020), All-of-government response to the COVID-19 pandemic: The case of Vietnam. Public Admin Dev, 40: 236-239. https://doi.org/10.1002/pad.1893'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In early August 2020, Vietnam had the first COVID-19 death, a toll that has risen to more than 10 since then. This recent local outbreak highlights the volatility of the situation. As the case and death numbers are evolving, we present an analysis based on the numbers by the end of June 2020.
 
 [Download paper here](https://doi.org/10.1002/pad.1893)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Huynh, D., Tosun, M.S. and Yilmaz, S. (2020), All-of-government response to the COVID-19 pandemic: The case of Vietnam. Public Admin Dev, 40: 236-239. https://doi.org/10.1002/pad.1893
