@@ -37,7 +37,7 @@ Skills
   * \LaTeX
   * Tableau
   * Python
-  * Sub-skill 2.3
+
 * Languages
   * English (Fluent)
   * Vietnamese (Native)
