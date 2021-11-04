@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "Welcome to my website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ Before joining the University of Nevada Reno in 2018, I worked as a data analyst
 
 I am on the job market this year and will be available for interviews.
 
-* Please contact me at: dath[at]unr.edu
+* Please contact me at: dath@unr.edu
 
 My CV is available here: [CV](https://github.com/huynhdattien/huynhdattien.github.io/files/7402234/Huynh_CV.pdf)
 
