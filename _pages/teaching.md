@@ -7,7 +7,7 @@ author_profile: true
 
 **Office hours:**
 
-* Wednesday & Friday, 10 - 12pm and by appointment
+* Wednesday & Friday, 10 - 12pm, and by appointment
 
 **Fall 2021**
 
