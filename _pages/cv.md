@@ -27,20 +27,21 @@ Work experience
   * Duties included: Merging pull requests
 
 * 2016: Research Assistant Intern
-  * Northwest Power and Conservation Council, Portland, Oregon
-  
-  
-Skills
-======
-* Programming & Software
-  * STATA
-  * \LaTeX
-  * Tableau
-  * Python
+  * Northwest Power and Conservation Council, Portland, Oregon 
 
-* Languages
-  * English (Fluent)
-  * Vietnamese (Native)
+Teaching
+======
+**Fall 2021**
+
+* ECON 262: Principles of Statistic II. 
+
+**Past courses**
+
+ECON 261: Principles of Statistic I (Spring 2021, Summer 2021)
+
+ECON 262: Principles of Statistic II (Summer 2020, Fall 2020)
+
+Math Camp for Incoming Master's and Ph.D. students in the Economic department (Summer 2020, Summer 2021)  
 
 Publications
 ======
@@ -55,12 +56,6 @@ Publications
 * A Meta-analysis on Tax Elasticity of Border Sales - with Prof. Mehmet Tosun and Prof. Anna Sokolova
 
 * An Overlapping Generation Model - with Prof. Mark Pingle
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -68,11 +63,17 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming & Software
+  * STATA
+  * \LaTeX
+  * Tableau
+  * Python
+
+* Languages
+  * English (Fluent)
+  * Vietnamese (Native)
   
 Honors and Awards
 ======
