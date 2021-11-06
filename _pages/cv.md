@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="files/7402234/Huynh_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+#<a href="files/7402234/Huynh_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
+<embed src="https://github.com/huynhdattien/huynhdattien.github.io/files/7402234/Huynh_CV.pdf" type="application/pdf" />
 
 Education
 ======
