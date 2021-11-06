@@ -21,7 +21,7 @@ I am on the job market this year and will be available for interviews.
 
 My CV is available here: [CV](https://github.com/huynhdattien/huynhdattien.github.io/files/7402234/Huynh_CV.pdf)
 
-**Thanks for visiting!**
+**Looking forward to meet!**
 
 
 
