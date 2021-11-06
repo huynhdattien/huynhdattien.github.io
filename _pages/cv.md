@@ -57,7 +57,7 @@ Publications
 
 * An Overlapping Generation Model - with Prof. Mark Pingle
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
