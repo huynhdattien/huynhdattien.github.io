@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am a Ph.D candidate (4th year) in Economics at the University of Nevada Reno.
 
 My interest in economics was sparked when I was participating in a medical trip in the highland mountain of Vietnam in Summer 2013. Since then, my quest for answers has brought me to Economics and its applications. 
