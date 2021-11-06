@@ -37,11 +37,11 @@ Teaching
 
 **Past courses**
 
-ECON 261: Principles of Statistic I (Spring 2021, Summer 2021)
+* ECON 261: Principles of Statistic I (Spring 2021, Summer 2021)
 
-ECON 262: Principles of Statistic II (Summer 2020, Fall 2020)
+* ECON 262: Principles of Statistic II (Summer 2020, Fall 2020)
 
-Math Camp for Incoming Master's and Ph.D. students in the Economic department (Summer 2020, Summer 2021)  
+* Math Camp for Incoming Master's and Ph.D. students in the Economic department (Summer 2020, Summer 2021)  
 
 Publications
 ======
