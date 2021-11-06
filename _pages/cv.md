@@ -50,12 +50,18 @@ Publications
 
 **Work in Progress**
 ======
-*The Impact of Remittances on Poverty Reduction: the Case of Vietnam
+* The Impact of Remittances on Poverty Reduction: the Case of Vietnam
 
-*A Meta-analysis on Tax Elasticity of Border Sales - with Prof. Mehmet Tosun and Prof. Anna Sokolova
+* A Meta-analysis on Tax Elasticity of Border Sales - with Prof. Mehmet Tosun and Prof. Anna Sokolova
 
-*An Overlapping Generation Model - with Prof. Mark Pingle
+* An Overlapping Generation Model - with Prof. Mark Pingle
 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
