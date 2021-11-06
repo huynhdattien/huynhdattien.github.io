@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Office hours:
+**Office hours:**
+
 Wednesday & Friday, 10 - 12pm
 
 **Fall 2021**
