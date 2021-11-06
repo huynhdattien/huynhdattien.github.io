@@ -4,10 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
 Office hours:
 Wednesday & Friday, 10 - 12pm
 
-**Fall 2021**
+** Fall 2021 **
 * ECON 262: Principles of Statistic II. 
 Available [syllabus] (https://github.com/huynhdattien/huynhdattien.github.io/blob/master/files/EC261_Syllabus_Fall_2021.pdf)
 
