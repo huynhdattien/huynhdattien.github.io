@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="https://github.com/huynhdattien/huynhdattien.github.io/files/7402234/Huynh_CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+
 Education
 ======
 * Ph.D in Economics, University of Nevada Reno, 2022 (expected)
