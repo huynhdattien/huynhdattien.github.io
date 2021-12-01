@@ -21,9 +21,9 @@ Work experience
 * 2018 - present: Instructor - Graduate Assistant
   * University of Nevada Reno
   * Duties included:
-      *- Teaching undergraduate and graduate courses, including Principles of Statistics, Intermediate Micro-economics, with more than 60 students per course
-      *- Advising, evaluating, and assisting undergraduate and graduate students
-     *- Maintaining a productive, high-performing learning environment with effective teaching strategies
+    *Teaching undergraduate and graduate courses, including Principles of Statistics, Intermediate Micro-economics, with more than 60 students per course
+    *Advising, evaluating, and assisting undergraduate and graduate students
+    *Maintaining a productive, high-performing learning environment with effective teaching strategies
 
 * 2017 - 2018: Energy Conservation Research Intern
   * Living Cully, Portland, Oregon
