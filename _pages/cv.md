@@ -20,14 +20,23 @@ Work experience
 ======
 * 2018 - present: Instructor - Graduate Assistant
   * University of Nevada Reno
-  * Duties included: Teaching undergraduate and graduate courses
+  * Duties included:
+   * - Teaching undergraduate and graduate courses, including Principles of Statistics, Intermediate Micro-economics, with more than 60 students per course
+   * - Advising, evaluating, and assisting undergraduate and graduate students
+   * - Maintaining a productive, high-performing learning environment with effective teaching strategies
 
 * 2017 - 2018: Energy Conservation Research Intern
   * Living Cully, Portland, Oregon
-  * Duties included: Merging pull requests
+  * Duties included:
+   *- Collect and analyze Portland's households electricity and natural gas consumption data
+   *- Identify pilot programs to increase energy efficiency and conservation for the Cully neighborhood
+   *- Lead community outreach and public engagement events to promote energy efficiency, and disaster resilience in under-served communities, and governmental and non-profit organizations
 
 * 2016: Research Assistant Intern
   * Northwest Power and Conservation Council, Portland, Oregon 
+  * Duties included:
+   *- Collect and construct a database on energy generation from utility facilities in the Northwest region
+   *- Construct a demand forecast model for electricity consumption, electric vehicle usage, and its impact for the Pacific Northwest region from 2017 to 2040
 
 Teaching
 ======
