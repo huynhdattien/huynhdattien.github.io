@@ -9,6 +9,9 @@ author_profile: true
 
 * Wednesday & Friday, 10 - 12pm, and by appointment
 
+**Winter Semester 2021**
+* ECON 302: Intermediate Microeconomics
+
 **Fall 2021**
 
 * ECON 262: Principles of Statistic II. 
