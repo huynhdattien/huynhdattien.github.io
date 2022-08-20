@@ -14,7 +14,7 @@ My interest in economics was sparked when I was participating in a medical trip 
 
 The primary purpose of my research is to strengthen the connection between the theoretical and the empirical, using longitudinal data approaches. A contribution of my research is the development of a theoretical framework and the use of data to explore the connections between public policy, development economics, and macroeconomics. 
 
-Before joining the University of Nevada Reno in 2018, I worked as a research assistant intern at the Northwest Energy and Conservation Council, and a data analyst intern at Living Cully in Portland, Oregon, helping to analyze data and find sustainable solutions for energy consumption for Portland's households. The Living Cully Energy Plan is available [here](https://github.com/huynhdattien/huynhdattien.github.io/files/LC-Community-Energy-Plan-FINAL-6.pdf) 
+Before joining the University of Nevada Reno in 2018, I worked as a research assistant intern at the Northwest Energy and Conservation Council, and a data analyst intern at Living Cully in Portland, Oregon, helping to analyze data and find sustainable solutions for energy consumption for Portland's households. The Living Cully Energy Plan is available [here](https://www.livingcully.org/incoming/2018/05/LC-Community-Energy-Plan-FINAL-6.pdf)
 
 I am on the job market this year and available for interviews.
 
