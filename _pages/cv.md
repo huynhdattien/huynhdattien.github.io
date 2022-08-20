@@ -13,28 +13,28 @@ My CV is available here: [CV](https://github.com/huynhdattien/huynhdattien.githu
 
 Education
 ======
-* Ph.D in Economics, University of Nevada Reno, May 2023 (expected)
-* Graduate Certificate in Energy Policy and Management, Portland State University, 2017
+* Ph.D in Economics, University of Nevada Reno (UNR), May 2023 (expected)
+* Graduate Certificate in Energy Policy and Management, Portland State University (PSU), 2017
 * M.S. in Economics, Portland State University, 2017
 * B.S. in Chemistry and Economics, Portland State University, 2015
 
 Work experience
 ======
-* 2018 - present: Instructor/ Graduate Assistant
+* 2018 - present: **Instructor/ Graduate Assistant**
   * University of Nevada Reno
   * Duties included:
     * Teaching undergraduate and graduate courses, including Principles of Statistics, Intermediate Micro-economics, with more than 60 students per course
     * Advising, evaluating, and assisting undergraduate and graduate students
     * Maintaining a productive, high-performing learning environment with effective teaching strategies
 
-* 2017 - 2018: Energy Conservation Research Intern
+* 2017 - 2018: **Energy Conservation Research Intern**
   * Living Cully, Portland, Oregon
   * Duties included:
     * Collect and analyze Portland's households electricity and natural gas consumption data
     * Identify pilot programs to increase energy efficiency and conservation for the Cully neighborhood
     * Lead community outreach and public engagement events to promote energy efficiency, and disaster resilience in under-served communities, and governmental and non-profit organizations
 
-* 2016: Research Assistant Intern
+* 2016: **Research Assistant Intern**
   * Northwest Power and Conservation Council, Portland, Oregon 
   * Duties included:
     * Collect and construct a database on energy generation from utility facilities in the Northwest region
@@ -44,7 +44,7 @@ Teaching
 ======
 **Fall 2022**
 
-* ECON 261: Principles of Statistic I. 
+* ECON 261: Principles of Statistic I
 
 **Past courses**
 * Econ 304: Money and Banking (Summer 2022)
@@ -67,9 +67,9 @@ Publications
 ======
 * The Impact of Remittances on Poverty Reduction: the Case of Vietnam
 
-* A Meta-analysis on Tax Elasticity of Border Sales - with Prof. Mehmet Tosun and Prof. Anna Sokolova
+* A Meta-analysis on Tax Elasticity of Border Sales - with [Prof. Anna Sokolova](https://www.asokolova.org) and [Prof. Mehmet Tosun](https://www.unr.edu/business/about/faculty-and-staff/tosun-mehmet)
 
-* An Overlapping Generation Model - with Prof. Mark Pingle
+* An Overlapping Generation Model - with [Prof. Mark Pingle](https://www.unr.edu/business/about/faculty-and-staff/pingle-mark)
   
 Presentations
 ======
@@ -84,6 +84,8 @@ Skills
   * \LaTeX
   * Tableau
   * Python
+  
+* Data analytic and forecasting models
 
 * Languages
   * English (Fluent)
