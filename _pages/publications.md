@@ -10,6 +10,9 @@ Katsikas, A., Wendel, J., Moody, S. A., Griswold, M. T., Dahir, V. B., Rerick,P.
 * **[All-of-government response to the COVID-19 pandemic: The case of Vietnam](https://doi.org/10.1002/pad.1893)**
 **Huynh, D.**, Tosun, M.S. and Yilmaz, S. (2020). Public Admin Dev, 40: 236-239. 
 
+* **[Living Cully Community Energy Plan](https://www.livingcully.org/incoming/2018/05/LC-Community-Energy-Plan-FINAL-6.pdf)**
+* Living Cully. (2018, March).
+
 
 Work in Progress
 ======
