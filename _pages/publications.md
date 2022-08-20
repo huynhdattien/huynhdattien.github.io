@@ -11,7 +11,7 @@ Katsikas, A., Wendel, J., Moody, S. A., Griswold, M. T., Dahir, V. B., Rerick,P.
 **Huynh, D.**, Tosun, M.S. and Yilmaz, S. (2020). Public Admin Dev, 40: 236-239. 
 
 * **[Living Cully Community Energy Plan](https://www.livingcully.org/incoming/2018/05/LC-Community-Energy-Plan-FINAL-6.pdf)**
-* Living Cully. (2018, March).
+Living Cully. (2018, March).
 
 
 Work in Progress
