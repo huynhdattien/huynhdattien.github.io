@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My CV is available here: [CV](https://github.com/huynhdattien/huynhdattien.github.io/files/7402234/Huynh_CV.pdf)
+
 Education
 ======
 * Ph.D in Economics, University of Nevada Reno, 2022 (expected)
