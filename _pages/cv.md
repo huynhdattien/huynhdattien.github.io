@@ -13,14 +13,14 @@ My CV is available here: [CV](https://github.com/huynhdattien/huynhdattien.githu
 
 Education
 ======
-* Ph.D in Economics, University of Nevada Reno, 2022 (expected)
+* Ph.D in Economics, University of Nevada Reno, May 2023 (expected)
 * Graduate Certificate in Energy Policy and Management, Portland State University, 2017
 * M.S. in Economics, Portland State University, 2017
-* B.S. in Chemistry and Economics, Portland State University, 2014
+* B.S. in Chemistry and Economics, Portland State University, 2015
 
 Work experience
 ======
-* 2018 - present: Instructor - Graduate Assistant
+* 2018 - present: Instructor/ Graduate Assistant
   * University of Nevada Reno
   * Duties included:
     * Teaching undergraduate and graduate courses, including Principles of Statistics, Intermediate Micro-economics, with more than 60 students per course
@@ -42,11 +42,14 @@ Work experience
 
 Teaching
 ======
-**Fall 2021**
+**Fall 2022**
 
-* ECON 262: Principles of Statistic II. 
+* ECON 261: Principles of Statistic I. 
 
 **Past courses**
+* Econ 304: Money and Banking (Summer 2022)
+
+* Econ 301: Intermediate Microeconomics (Winter 2022, Spring 2022)
 
 * ECON 261: Principles of Statistic I (Spring 2021, Summer 2021)
 
