@@ -13,6 +13,9 @@ Katsikas, A., Wendel, J., Moody, S. A., Griswold, M. T., Dahir, V. B., Rerick,P.
 * **[Living Cully Community Energy Plan](https://www.livingcully.org/incoming/2018/05/LC-Community-Energy-Plan-FINAL-6.pdf)**
 Living Cully. (2018, March).
 
+Working-paper
+* **[Tax Elasticity of Border Sales: A Meta-Analysis] (https://docs.iza.org/dp15525.pdf)**
+**Huynh, D., Sokolova, A., & Tosun, M. S. (2022). Tax Elasticity of Border Sales: A Meta-Analysis.
 
 Work in Progress
 ======
