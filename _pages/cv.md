@@ -57,13 +57,13 @@ Teaching
 
 * Math Camp for Incoming Master's and Ph.D. students in the Economic department (Summer 2020, Summer 2021)  
 
-{% comment %} 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-{% endcomment %}
+
 
 **Working Paper**
 * **[Tax Elasticity of Border Sales: A Meta-Analysis](https://docs.iza.org/dp15525.pdf)**
