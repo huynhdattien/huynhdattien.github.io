@@ -63,11 +63,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+**Working Paper**
+* **[Tax Elasticity of Border Sales: A Meta-Analysis](https://docs.iza.org/dp15525.pdf)**
+**Huynh, D., Sokolova, A., & Tosun, M. S. (2022). Tax Elasticity of Border Sales: A Meta-Analysis.
+
 **Work in Progress**
 ======
 * The Impact of Remittances on Poverty Reduction: the Case of Vietnam
-
-* A Meta-analysis on Tax Elasticity of Border Sales - with [Prof. Anna Sokolova](https://www.asokolova.org) and [Prof. Mehmet Tosun](https://www.unr.edu/business/about/faculty-and-staff/tosun-mehmet)
 
 * An Overlapping Generation Model - with [Prof. Mark Pingle](https://www.unr.edu/business/about/faculty-and-staff/pingle-mark)
   
