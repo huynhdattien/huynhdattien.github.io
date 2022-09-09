@@ -66,6 +66,7 @@ Publications
 
 
 **Working Paper**
+======
 * **[Tax Elasticity of Border Sales: A Meta-Analysis](https://docs.iza.org/dp15525.pdf)**
 **Huynh, D.**, Sokolova, A., & Tosun, M. S. (2022). Tax Elasticity of Border Sales: A Meta-Analysis.
 
@@ -77,9 +78,9 @@ Publications
   
 > Presentations
 > ======
- % <ul>{% for post in site.talks %}
- %  {% include archive-single-talk-cv.html %}
- % {% endfor %}</ul>
+> % <ul>{% for post in site.talks %}
+> %  {% include archive-single-talk-cv.html %}
+> % {% endfor %}</ul>
   
 Skills
 ======
