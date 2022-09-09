@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available here: [CV](https://github.com/huynhdattien/huynhdattien.github.io/files/7402234/Huynh_CV.pdf)
+My detailed CV is available here: [CV](https://github.com/huynhdattien/huynhdattien.github.io/files/7402234/Huynh_CV.pdf)
 
 Education
 ======
@@ -76,11 +76,14 @@ Publications
 
 * How Varying the Work-life Cycle Affects the Overlapping Generation Model with Production - with [Prof. Mark Pingle](https://www.unr.edu/business/about/faculty-and-staff/pingle-mark)
   
+{%
 > Presentations
 > ======
 > % <ul>{% for post in site.talks %}
 > %  {% include archive-single-talk-cv.html %}
 > % {% endfor %}</ul>
+
+%}
   
 Skills
 ======
