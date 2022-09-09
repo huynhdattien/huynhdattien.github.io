@@ -65,7 +65,7 @@ Publications
 
 **Working Paper**
 * **[Tax Elasticity of Border Sales: A Meta-Analysis](https://docs.iza.org/dp15525.pdf)**
-Huynh, D., Sokolova, A., & Tosun, M. S. (2022). Tax Elasticity of Border Sales: A Meta-Analysis.
+**Huynh, D.**, Sokolova, A., & Tosun, M. S. (2022). Tax Elasticity of Border Sales: A Meta-Analysis.
 
 **Work in Progress**
 ======
@@ -73,8 +73,8 @@ Huynh, D., Sokolova, A., & Tosun, M. S. (2022). Tax Elasticity of Border Sales: 
 
 * How Varying the Work-life Cycle Affects the Overlapping Generation Model with Production - with [Prof. Mark Pingle](https://www.unr.edu/business/about/faculty-and-staff/pingle-mark)
   
-%Presentations
-%======
+> Presentations
+> ======
  % <ul>{% for post in site.talks %}
  %  {% include archive-single-talk-cv.html %}
  % {% endfor %}</ul>
