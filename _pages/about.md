@@ -23,8 +23,6 @@ My CV is available here: [CV](https://github.com/huynhdattien/huynhdattien.githu
 My CV is available HERE: [CV](https://github.com/huynhdattien/huynhdattien.github.io/blob/6073326d7b21041924536e4bff9185469b11336f/files/Huynh_CV_09_2022.pdf)
 <a href="https://huynhdattien.github.io/files/Huynh_CV_09_2022.pdf" target="_blank">PDF.</a>
 
-[https://github.com/huynhdattien/huynhdattien.github.io/blob/d3bb0144d767f92981af54ac9b196fe08e1eb8da/files/Huynh_CV_09_2022.pdf]
-
 My resume is also available here: [Resume](https://github.com/huynhdattien/huynhdattien.github.io/files/7637264/Huynh_Resume.pdf)
 
 **Looking forward to meet!**
