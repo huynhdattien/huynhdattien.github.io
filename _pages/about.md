@@ -21,7 +21,7 @@ I am on the job market this year and available for interviews.
 My CV is available here: [CV](https://github.com/huynhdattien/huynhdattien.github.io/files/7402234/Huynh_CV.pdf)
 
 My CV is available HERE: [CV](https://github.com/huynhdattien/huynhdattien.github.io/blob/6073326d7b21041924536e4bff9185469b11336f/files/Huynh_CV_09_2022.pdf)
-<a href="huynhdattien.github.io/blob/6073326d7b21041924536e4bff9185469b11336f/files/Huynh_CV_09_2022.pdf" target="_blank">PDF.</a>
+<a href="(https://github.com/huynhdattien/huynhdattien.github.io/blob/6073326d7b21041924536e4bff9185469b11336f/files/Huynh_CV_09_2022.pdf" target="_blank">PDF.</a>
 
 My resume is also available here: [Resume](https://github.com/huynhdattien/huynhdattien.github.io/files/7637264/Huynh_Resume.pdf)
 
