@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
+
+Publications
+======
 * **[All-of-government response to the COVID-19 pandemic: The case of Vietnam](https://doi.org/10.1002/pad.1893)**
 **Huynh, D.**, Tosun, M.S. and Yilmaz, S. (2020). Public Admin Dev, 40: 236-239. 
 
