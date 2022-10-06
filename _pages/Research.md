@@ -8,12 +8,12 @@ author_profile: true
 Publications
 ======
 * **[All-of-government response to the COVID-19 pandemic: The case of Vietnam](https://doi.org/10.1002/pad.1893)**
-**Huynh, D.**, Tosun, M.S. and Yilmaz, S. (2020). Public Admin Dev, 40: 236-239. 
+**Huynh, D.**, Tosun, M.S. and Yilmaz, S. (2020). Public Admin Dev, 40: 236-239. (IZA Working Paper #4203197, available at SSRN: https://ssrn.com/abstract=4203197 or http://dx.doi.org/10.2139/ssrn.4203197)
 
 Working Papers
 ======
 * **[Tax Elasticity of Border Sales: A Meta-Analysis](https://docs.iza.org/dp15525.pdf)**
-**Huynh, D.**, Sokolova, A., & Tosun, M. S. (2022). Tax Elasticity of Border Sales: A Meta-Analysis.
+**Huynh, D.**, Sokolova, A., & Tosun, M. S. (2022). Tax Elasticity of Border Sales: A Meta-Analysis. 
 
 Work in Progress
 ======
