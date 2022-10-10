@@ -18,9 +18,9 @@ I am on the job market this year and available for interviews.
 
 * Please contact me at: dath[at]nevada.unr.edu
 
-My CV is available here: <a href="https://huynhdattien.github.io/files/Huynh_CV_09_2022.pdf" target="_CV">CV.</a>
+My CV is available here: <a href="https://huynhdattien.github.io/files/Huynh_CV_10_2022.pdf" target="_CV">CV.</a>
 
-My resume is also available here: <a href="https://huynhdattien.github.io/files/Huynh_Resume_09_2022.pdf" target="_CV">Resume.</a>
+My resume is also available here: <a href="https://huynhdattien.github.io/files/Huynh_Resume_102022.pdf" target="_CV">Resume.</a>
 
 **Looking forward to meet!**
 
